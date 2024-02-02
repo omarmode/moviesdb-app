@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviesdb-app/static/css/main.b7a62324.css",
+    "main.js": "/moviesdb-app/static/js/main.c1567836.js",
+    "static/media/logo.avif": "/moviesdb-app/static/media/logo.043f4c87621315a6b14e.avif",
+    "index.html": "/moviesdb-app/index.html",
+    "main.b7a62324.css.map": "/moviesdb-app/static/css/main.b7a62324.css.map",
+    "main.c1567836.js.map": "/moviesdb-app/static/js/main.c1567836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a62324.css",
+    "static/js/main.c1567836.js"
+  ]
+}
